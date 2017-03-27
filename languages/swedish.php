@@ -1,11 +1,11 @@
 <?php
 // Language Name
-$name = 'Spanish (Castellano)';
+$name = 'Swedish';
 // Language Author
-$author = 'Jaume d\'Urgell';
+$author = 'Trilleplay';
 // Language URL
-$url = 'https://www.ucm.es/emui/jaume-durgell';
-$LNG['lang_direction'] = 'ltr';
+$url = 'https://trilleplay.net/phpdolphin%20swedish%20language.html';
+$LNG['lang_direction'] = 'SE';
 $LNG['0_already_reported'] = 'Esta respuesta ya ha sido denunciada y será revisada lo antes posible. Lamentamos las molestias. Gracias por tu colaboración.';
 $LNG['0_is_deleted'] = 'La respuesta se ha borrado. Gracias por tu colaboración.';
 $LNG['0_is_safe'] = 'Esta respuesta se considera <strong>segura</strong> por el equipo de administración.';
@@ -168,7 +168,7 @@ $LNG['cancel'] = 'Cancelar';
 $LNG['captcha'] = 'Captcha';
 $LNG['category'] = 'Categoría';
 $LNG['censored'] = '<strong>(expresión inapropiada)</strong>';
-$LNG['change_password'] = 'Cambiar contraseña';
+$LNG['change_password'] = 'Ändra ditt lösenord.';
 $LNG['change_privacy'] = '¿Quién debería poder ver esta actualización?';
 $LNG['chat_no_user'] = 'Debes especificar a qué persona deseas escribir.';
 $LNG['chat_self'] = 'No puedes escribirte a ti misma.';
